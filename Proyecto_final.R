@@ -48,3 +48,5 @@ ELISA <- function(x){
 }
 
 ELISA(Datosos)
+### aver si jala
+
